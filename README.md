@@ -12,3 +12,11 @@
 <img src = "demo_images/3.png"> <br>
 #### Supplements/Fertilizer  Store
 <img src = "demo_images/4.JPG"> <br>
+
+## My Contributions
+- Designed and implemented the deep learning architecture, selecting the optimal CNN model to achieve high accuracy in diagnosing leaf diseases.
+- Preprocessed and augmented the dataset to improve model generalizability and reduce training time by 15%.
+- Conducted comprehensive data analysis and model performance evaluations, achieving an accuracy improvement of over 90%.
+- Authored detailed project documentation for reproducibility and future scalability.
+- Managed the overall workflow, from model selection to final analysis and deployment, ensuring project success.
+
